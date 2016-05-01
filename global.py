@@ -9,7 +9,7 @@ GAP_SCORE = -1
 inputs = []
 
     
-# Assumes only two fasta entries
+# For all fasta entries
 def read_fasta(fasta):
     name=''
     lineDNA = ''
