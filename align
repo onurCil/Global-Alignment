@@ -1,2 +1,0 @@
-#!/bin/bash
-python proj2.py $1 $2
