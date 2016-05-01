@@ -1,0 +1,1 @@
+python global.py input.fasta scoring.txt
